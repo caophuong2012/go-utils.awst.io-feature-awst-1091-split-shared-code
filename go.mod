@@ -1,4 +1,4 @@
-module github.com/awst-global/go-utils.awst.io
+module github.com/caophuong2012/go-utils.awst.io-feature-awst-1091-split-shared-code
 
 go 1.16
 
